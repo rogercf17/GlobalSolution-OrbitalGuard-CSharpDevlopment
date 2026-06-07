@@ -1,0 +1,6 @@
+@OrbitalGuard_HostAddress = http://localhost:5202
+
+GET {{OrbitalGuard_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

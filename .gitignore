@@ -1,0 +1,42 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# NuGet
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Logs e cache
+*.log
+*.cache
+
+# Configurações locais sensíveis
+appsettings.Development.json
+appsettings.Local.json
+
+# Migrations geradas (opcional — manter se quiser versionar)
+# Migrations/
+
+# Publicação
+publish/
+**/publish/
+
+# Cobertura de testes
+coverage*/
+TestResults/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
