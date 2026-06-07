@@ -20,8 +20,8 @@ tempestades, tsunamis, entre outros.
 | Roger Cardoso Ferreira | 557230 |
 | Victor Mattenhauer Lopes | 555753 |
 
-**Turma:** 3ESPW 
-**Professor:**  Rafael Santos Novo Pereira
+**Turma:** 3ESPW \
+**Professor:**  Rafael Santos Novo Pereira \
 **Data de entrega:** 09/06/2026
 
 ---
@@ -74,6 +74,7 @@ Abra o arquivo `appsettings.json` e preencha com suas credenciais Oracle:
 ```
 
 **3. Aplique as migrations**
+
 1. 
 ```bash
 Add-Migration [NomeDaMigration]
@@ -91,4 +92,5 @@ dotnet run
 ```
 
 **5. Acesse o Swagger e veja os Endpoints**
+
 https://localhost:{porta}/swagger
